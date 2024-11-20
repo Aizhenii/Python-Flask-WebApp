@@ -1,2 +1,2 @@
 A full stack web application that connects businesses and clubs using Python Flask. You can create, edit, and delete a post. 
-Created with UC Berekeley SWE's High School Engineering Program.
+Created with UC Berekeley SWE's High School Engineering Program. I worked on the backend of this application.
